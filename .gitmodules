@@ -1,0 +1,6 @@
+[submodule "IS_example_frontend"]
+	path = IS_example_frontend
+	url = https://github.com/gigagibi/IS_example_frontend.git
+[submodule "IS_example_backend"]
+	path = IS_example_backend
+	url = https://github.com/gigagibi/IS_example_backend.git
