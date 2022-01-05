@@ -21,3 +21,28 @@ docker-compose up
 Backend: https://github.com/gigagibi/IS_example_backend
 
 Frontend: https://github.com/gigagibi/IS_example_frontend
+
+---
+# IS_EXAMPLE
+Проект является примером системы для организации коммуникации и работы сотрудников какой-либо компании. Эта система позволяет читать и писать сообщения, просматривать информацию об отделах и офисах компании, искать информацию о сотрудниках, закрывать задачи и т.д.
+## Стек разработки
+### Backend
+- Java
+- Spring Boot
+- JPA
+- JWT (io.jsonwebtoken.jjwt)
+### Frontend
+- ReactJS
+- NodeJS
+- HTML 5
+- CSS
+### СУБД
+- PostgreSQL 13.5
+## Запуск с помощью Docker
+```bash
+docker-compose up
+```
+## Ссылки на репозитории-подмодули
+Backend: https://github.com/gigagibi/IS_example_backend
+
+Frontend: https://github.com/gigagibi/IS_example_frontend
